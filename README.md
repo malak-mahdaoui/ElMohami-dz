@@ -25,16 +25,5 @@ Styling: Modern CSS3 / Tailwind CSS
 
 Architecture: Component-based modular design
 
--  Project Structure
-Plaintext
-.
-├── src/
-│   ├── components/     # Reusable UI elements (Navbar, CaseCard, Modals)
-│   ├── pages/          # Main views (Home, Dashboard, ClientDetails)
-│   ├── hooks/          # Custom logic for data handling
-│   ├── assets/         # Branding and legal icons
-│   └── App.js          # Routing and core logic
-├── public/             # Static assets
-└── package.json        # Project dependencies
 - Motivation
 As a State Engineer candidate at ESTIN, I developed this project to demonstrate how Digital Innovation can improve the productivity of essential sectors like Law. This project showcases my ability to analyze a niche market and deliver a functional, user centric software solution.
